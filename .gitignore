@@ -1,0 +1,10 @@
+node_modules/
+.env.local
+.DS_Store
+build/
+dist/
+.vite/
+.vscode/
+.idea/
+.convex/
+_generated/

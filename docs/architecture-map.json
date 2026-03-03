@@ -1,0 +1,8 @@
+{
+  "TodoListView": {
+    "sectionComponent": "src/features/todo_list/component/TodoListView.tsx",
+    "owningFeature": "todo_list",
+    "primaryQuery": "listTodos",
+    "mutations": ["createTodo", "toggleTodoCompletion", "removeTodo"]
+  }
+}
